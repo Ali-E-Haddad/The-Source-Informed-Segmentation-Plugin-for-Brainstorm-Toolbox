@@ -1,6 +1,4 @@
-**The Source-Informed Segmentation Plugin**
-
-**for Brainstorm Toolbox**
+**The Source-Informed Segmentation Plugin for Brainstorm Toolbox**
 
 1. **About the Plugin:**
 
