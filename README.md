@@ -2,4 +2,5 @@ This plugin employs the Source-Informed Segmentation Algorithm [1] in the tempor
 The plugin can be applied either to one set of files, to be processed and statistically summarized together, or to two sets of files, to be equivalently processed then compared using the same statistical measures.
 For details see the attached tutorial. For citation, see below:
 
-[cite]	Ali E. Haddad and Laleh Najafizadeh, "Source-informed segmentation: A data-driven approach for the temporal segmentation of EEG," IEEE Transactions on Biomedical Engineering, vol. 66, no. 5, pp. 1429-1446, 2019.
+[1]	Ali E. Haddad and Laleh Najafizadeh, "Source-informed segmentation: A data-driven approach for the temporal segmentation of EEG," IEEE Transactions on Biomedical Engineering, vol. 66, no. 5, pp. 1429-1446, 2019.
+[2]	https://neuroimage.usc.edu/brainstorm/Introduction
