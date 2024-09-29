@@ -4,4 +4,4 @@ This plugin employs the Source-Informed Segmentation Algorithm [1] in the tempor
 
 [2]	https://neuroimage.usc.edu/brainstorm/Introduction
 
-v4.0, September 2924
+v4.0, September 2024
